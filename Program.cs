@@ -40,7 +40,7 @@ namespace Exercicio_Musica
             Console.WriteLine("Words I want to hear, baby");
             Console.WriteLine("Put your head on my shoulder");
 
-            Console.ForegroundColor=ConsoleColor.White;
+            Console.ResetColor();
             
         }
     }
